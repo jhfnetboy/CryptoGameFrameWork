@@ -27,7 +27,11 @@ Friends
 Tales
 Real Mirror World
 PNTs
+Mobile version
+----
+https://github.com/flutter/games/tree/main/templates/basic
 
 ## Architecture
+
 
 ## 
